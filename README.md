@@ -3,11 +3,11 @@
 01|Переработка данных|--|--|Редактирование|
 02|Исследовательский анализ данных|--|--|Редактирование|
 03|Статистический анализ данных|--|--|Редактирование|
-04|[Поиск закономерностей для рекламы игр](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Project_critic_top_games_%20hypothesis.ipynb)|--|--|Закончен|
+04|[Поиск закономерностей для рекламы игр](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Project_critic_top_games_%20hypothesis.ipynb)|--|pandas, matplotlib, pymystem3, collections, numpy, scipy|Закончен|
 05|Введение в машинное обучение|--|--|Редактирование|
 06|Обучение с учителем|--|--|Редактирование|
 07|Машинное обучение в бизнесе|--|--|Редактирование|
-08|[Прототип модели машинного обучения (очистка золота)](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Project_Gold_learning_machine_model.ipynb)|--|--|Закончен|
+08|[Прототип модели машинного обучения (очистка золота)](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Project_Gold_learning_machine_model.ipynb)|--|pandas, numpy, matplotlib, sklearn|Закончен|
 09|Линейная алгебра|--|--|Редактирование|
 10|Численные методы|--|--|Редактирование|
 11|Временные ряды|--|--|Редактирование|
