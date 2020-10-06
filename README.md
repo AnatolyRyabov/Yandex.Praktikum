@@ -3,7 +3,7 @@
 01|Переработка данных|--|--|Редактирование|
 02|Исследовательский анализ данных|--|--|Редактирование|
 03|Статистический анализ данных|--|--|Редактирование|
-04|[Поиск закономерностей для рекламы игр](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Project_critic_top_games_%20hypothesis.ipynb)|--|pandas, matplotlib, pymystem3, collections, numpy, scipy|Закончен|
+04|[Поиск закономерностей для рекламы игр](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Project_critic_top_games_%20hypothesis.ipynb)|Выявить определяющие успешность игры закономерности для планирования рекламной кампании.|pandas, matplotlib, pymystem3, collections, numpy, scipy|Закончен|
 05|Введение в машинное обучение|--|--|Редактирование|
 06|Обучение с учителем|--|--|Редактирование|
 07|Машинное обучение в бизнесе|--|--|Редактирование|
