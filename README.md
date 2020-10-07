@@ -12,4 +12,4 @@
 10|[Численные методы)]()|--|pandas, numpy, matplotlib, sklearn, lightgbm, time|Редактирование|
 11|[Временные ряды)]()|--|pandas, numpy, statsmodels, sklearn, sklearn, lightgbm, time|Редактирование|
 12|[Машинное обучение для текстов)]()|--|pandas, numpy, nltk, re, sklearn, catboost, xgboost|Редактирование|
-13|[Извлечение данных)]()|--|--|Редактирование|
+13|[Извлечение данных]()|--|pandas, matplotlib, scipy|Редактирование|
