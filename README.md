@@ -11,5 +11,5 @@
 09|[Линейная алгебра)]()|--|pandas, numpy, matplotlib, sklearn|Редактирование|
 10|[Численные методы)]()|--|pandas, numpy, matplotlib, sklearn, lightgbm, time|Редактирование|
 11|[Временные ряды)]()|--|pandas, numpy, statsmodels, sklearn, sklearn, lightgbm, time|Редактирование|
-12|[Машинное обучение для текстов)]()|--|pandas, numpy, nltk, re, sklearn, catboost, xgboost||
-13|[Извлечение данных]()|--|pandas, matplotlib, scipy||
+12|[Машинное обучение для текстов)]()|--|pandas, numpy, nltk, re, sklearn, catboost, xgboost|Редактирование|
+13|[Извлечение данных]()|--|pandas, matplotlib, scipy|Редактирование|
