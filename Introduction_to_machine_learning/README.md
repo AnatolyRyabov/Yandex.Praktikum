@@ -7,7 +7,6 @@
 ## Стек
 + pandas 
 + sklearn
-+ train_test_split
 + matplotlib
 ## Статус
 - [x] Завершен
