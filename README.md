@@ -1,6 +1,6 @@
 №|Наименование|Описание проекта|Используемые библиотеки|Статус|
 --|--|--|--|--|
-01|[Переработка данных](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Data_preprocessing/Data_preprocessing.ipynb)|--|pandas|Завершен|
+01|[Переработка данных](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Data_preprocessing/)|--|pandas|Завершен|
 02|[Исследовательский анализ данных](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Exploratory_data_analysis/Exploratory_data_analysis.ipynb)|--|pandas, matplotlib, pymystem3, collections|Завершен|
 03|[Статистический анализ данных](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Statistical_data_analysis/Statistical_data_analysis.ipynb)|--|pandas, matplotlib, pymystem3, collections, math, numpy, scipy|Завершен|
 04|[Поиск закономерностей для рекламы игр](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Critic_top_games_%20hypothesis/critic_top_games_%20hypothesis.ipynb)|--|pandas, matplotlib, pymystem3, collections, numpy, scipy|Завершен|
