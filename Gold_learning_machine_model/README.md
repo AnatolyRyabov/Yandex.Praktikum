@@ -8,7 +8,6 @@
 + pandas 
 + numpy 
 + matplotlib
-+ train_test_split
 + sklearn
 ## Статус
 - [x] Завершен
