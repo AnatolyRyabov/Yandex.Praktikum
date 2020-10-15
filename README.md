@@ -13,4 +13,4 @@
 11|[Временные ряды](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Time_series/)|Модель для прогноза количества заказов такси.|pandas, numpy, statsmodels, sklearn, sklearn, lightgbm, time|Завершен|
 12|[Машинное обучение для текстов](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Machine_learning_for_texts/)|Инструмент для поиска токсичных комментариев.|pandas, numpy, nltk, re, sklearn, catboost, xgboost|Завершен|
 13|[Извлечение данных](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Retrieving_data/)|Зависимость спроса на авиа-билеты от культурных мероприятий (фестиваль).|pandas, matplotlib, scipy|Завершен|
-14|[Компьютерное зрение](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Computer_vision/Computer_vision.ipynb)|--|--|Завершен|
+14|[Компьютерное зрение](https://github.com/AnatolyRyabov/Yandex.Praktikum/blob/main/Computer_vision/Computer_vision.ipynb)|Компьютерное зрение для обработки фотографий|pandas, tensorflow, numpy|Завершен|
